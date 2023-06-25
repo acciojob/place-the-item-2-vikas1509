@@ -3,7 +3,8 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	justify-content:wrap;
+	flex-wrap:wrap;
+	width:300px;
 }
 .item-1>p{
 
